@@ -1,3 +1,30 @@
-body{
+body {
   background-color: hotpink;
-};
+}
+
+#Tennessee {
+  font-family: 'Courier New', Courier, monospace;
+  border: black 5px solid;
+  
+}
+
+#Comcast {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: whitesmoke 8px double;
+
+}
+
+#Bank {
+  font-family: Arial, Helvetica, sans-serif;
+  border: darkblue 3px dashed;
+
+}
+
+h2 {
+  color: deepskyblue;
+  margin-left: 10px;
+}
+
+p {
+  margin-left: 12px;
+}
